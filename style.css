@@ -1,0 +1,55 @@
+body{
+  background-color: #ff9900;
+  font-family: arial;
+}
+
+p{
+  font-family: courier;
+  margin-left: 1.25%;
+}
+
+h1{
+  font-size: 42px;
+}
+
+h2{
+  font-size: 32px;
+  margin-left: 0.5%;
+}
+
+h3{
+  font-size: 26px;
+  margin-left: 1%;
+}
+
+img{
+  width: 100%;
+}
+
+.purpleBox{
+  background-color: purple;
+  color: orange;
+  height: 128px;
+  float: left;
+}
+
+.greenBox{
+  background-color: green;
+  color: white;
+  height: 128px;
+  float: left;
+}
+
+.borderBox{
+  width: 27%;
+  border-style: solid;
+  border-width: 1px;
+  border-color: black;
+  border-radius: 9px;
+  padding: 12px;
+  margin: 3px;
+}
+
+.textyTest{
+  text-shadow: 1px 1px 9px #000000;
+}
